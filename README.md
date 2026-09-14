@@ -9,6 +9,7 @@
 
 🚀 Projects:
 - Loan Approval Prediction System
+- Room Occupancy Prediction
 
 📫 Connect with Me:
 Email: rpawan0.j@gmail.com
